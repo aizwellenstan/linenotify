@@ -1,6 +1,7 @@
 LineNotify template : A simple Golang Line Notify Bot template
 ==============
 
+URL https://www.evanlin.com/go-line-notify/
 
 [![Join the chat at https://gitter.im/kkdai/linenotify](https://badges.gitter.im/kkdai/linenotify.svg)](https://gitter.im/kkdai/linenotify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
